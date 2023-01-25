@@ -1,12 +1,12 @@
 {
-  "name": "client",
+  "name": "api",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "nodemon src/index.js"
+    "dev": "nodemon index.js"
   },
-  "author": "",
+  "author": "João Matheus",
   "license": "ISC",
   "dependencies": {
     "dotenv": "^16.0.3",
